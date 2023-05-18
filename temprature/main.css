@@ -1,0 +1,32 @@
+*{
+    padding: 50px 100px;
+    }
+    h1{
+        text-align: center;
+    }
+    #container{
+        text-align: center;
+        
+        border: 2px solid rgb(228, 225, 225);
+        box-shadow: #ffffff;
+        background: linear-gradient(45deg,#f7fbfdb4,#9effffe7); 
+        display: inline-block;box-shadow: 3px 8px 22px rgba(94, 28,68,0.15);
+        padding: 75px; 
+    }
+    .input-div{
+        display:inline-block;
+    }
+    .temp{
+        background-image: url(temp.jpg)
+    }
+    .inpu{
+        padding: 5px  10px;
+        margin: 10px;
+        font-size: 30px;
+        font-weight: bold;
+        text-align: center;
+        width: 250px;
+    }
+    label{
+        font-size: 22px;
+    }
